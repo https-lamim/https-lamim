@@ -20,14 +20,14 @@
 ---
 
 ## 📊 GitHub Stats
-![Lamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=rissss21&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
+![Lamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=https-lamim&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rissss21&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https-lamim&layout=compact&theme=radical)
 
 ---
 
 ## 🌍 Find me around the web
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamim-sarowar-6966913b7/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/farisedrikprayoga/](https://www.instagram.com/_https.lammu?igsh=MTVwMnM3MnF0NjM3YQ==))
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://rissss21.github.io/portofolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_https.lammu?igsh=MTVwMnM3MnF0NjM3YQ==))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white)]()
 
