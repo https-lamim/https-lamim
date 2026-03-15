@@ -1,10 +1,10 @@
 # Hey there! 👋 I'm Lamim  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Faris!;Software+Developer;Tech+Explorer;AI+%2F+ML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Lamim!;Fontend+Developer;Tech+Explorer;AI+%2F+ML+Enthusiast)](https://git.io/typing-svg)
 
-💡 Passionate about crafting mobile apps and building modern web experiences.  
-🌱 Currently exploring **Flutter, Next.js, and UI/UX design principles**.  
-🎯 Goal: Deliver smooth user experiences, grow as a full-stack developer, and build apps that people love to use.   
+💡 Passionate about Fontend Developer and building modern web experiences.  
+🌱 Currently exploring **JavaScript, CMS, and UI/UX design principles**.  
+🎯 Goal: Deliver smooth user experiences, grow as a full-stack developer, and build website that people love to use.   
 
 ---
 
@@ -27,7 +27,7 @@
 ---
 
 ## 🌍 Find me around the web
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farisedp/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamim-sarowar-6966913b7/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/farisedrikprayoga/](https://www.instagram.com/_https.lammu?igsh=MTVwMnM3MnF0NjM3YQ==))
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://rissss21.github.io/portofolio/)
 
