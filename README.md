@@ -21,9 +21,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Lamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=https-lamim21&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https-lamim&layout=compact&theme=radical)
+![Lamim's GitHub stats](https://nirzak-streak-stats.vercel.app?username=https-lamim=transparent&hide_border=true&exclude_days=Fri%2CSat&card_width=600&fire=EB6D22&currStreakNum=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https-lamim=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
