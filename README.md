@@ -20,9 +20,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Lamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=https-lamim&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
+![Faris's GitHub stats](https://github-readme-stats.vercel.app/api?username=rissss21&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https-lamim&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rissss21&layout=compact&theme=radical)
 
 ---
 
