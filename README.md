@@ -30,7 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamimdp/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_https.lammu?igsh=MTVwMnM3MnF0NjM3YQ==)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/https-lamim)
-[![Discord](https://img.shields.io/badge/Discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/1443300185122934947/)
+[![Discord](https://img.shields.io/badge/Discord-#111214.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/1443300185122934947/)
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nothingjust_lammu/)
 
 
